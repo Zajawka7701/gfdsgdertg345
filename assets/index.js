@@ -139,7 +139,7 @@ function isEmpty(value){
 
 function forwardToId(params){
 
-    location.href = "uyhgb87/id?" + params
+    location.href = "gfdsgdertg345/id?" + params
 
 }
 
